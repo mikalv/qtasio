@@ -19,7 +19,7 @@ PKGCONFIG += glib-2.0
 LIBS += -lboost_system
 
 TARGET = qtasio
-TEMPLATE = app
+TEMPLATE = lib
 
 
 SOURCES += \
